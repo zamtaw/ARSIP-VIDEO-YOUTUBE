@@ -23,9 +23,9 @@ Ada 3 bagian (Video, Shorts, dan Live) untuk mempermudah dalam mencarinya.
 
 | Thumbnail | Judul | Link |
 |----------|--------|-------|
-| [![Video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) | **Judul Video 1** | https://www.youtube.com/watch?v=VIDEO_ID |
-| [![Video](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID2) | **Judul Video 2** | https://www.youtube.com/watch?v=VIDEO_ID2 |
-| [![Video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) | **Judul Video 1** | https://www.youtube.com/watch?v=VIDEO_ID |
+| [![Video](https://i.ytimg.com/vi/Rb-HAmQc04s/maxresdefault.jpg)](https://www.youtube.com/shorts/Rb-HAmQc04s) | **Tutorial Cara 'mencuri' Status WA Teman Kalian** | https://www.youtube.com/shorts/Rb-HAmQc04s |
+| [![Video](https://i.ytimg.com/vi/Oup3AOG8wGI/maxresdefault.jpg)](https://www.youtube.com/shorts/Oup3AOG8wGI) | **Video Tersingkat Di YouTube Shorts. #shorts** | https://www.youtube.com/shorts/Oup3AOG8wGI |
+| [![Video](https://i.ytimg.com/vi/gRhBdUSMGbk/maxresdefault.jpg)](https://www.youtube.com/shorts/gRhBdUSMGbk) | **ㅤ** | https://www.youtube.com/shorts/gRhBdUSMGbk |
 | [![Video](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID2) | **Judul Video 2** | https://www.youtube.com/watch?v=VIDEO_ID2 |
 | [![Video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) | **Judul Video 1** | https://www.youtube.com/watch?v=VIDEO_ID |
 | [![Video](https://img.youtube.com/vi/VIDEO_ID2/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID2) | **Judul Video 2** | https://www.youtube.com/watch?v=VIDEO_ID2 |
